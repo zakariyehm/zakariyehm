@@ -1,34 +1,27 @@
-# Hi there
+Hi there 👋  
+My name is Zakariye Hassan and I'm a **Software Engineer**.
 
-My name is Zakariye Hassan, and I am a **Software Engineer**.
-
----
-
-### Work Experience
+⚡️ Work Experience:
 
 **Software Engineer @ MyTech (Previous)**  
 - Worked in a local tech company with a team of 6.  
 - Built **web applications** and other software projects.  
 
-### Projects
+**Founder / Software Engineer @ NutroAI & POS Car Wash System**  
+- Led projects for local applications:  
+  - **NutroAI:** Calories tracking app for managing food intake  
+  - **POS Car Wash System:** POS system currently used in local car washes  
+- Developed both web and mobile applications using React, React Native, Next.js, Node.js, and Flutter  
 
-- **E-commerce Web Application** – Built a fully functional e-commerce website.  
-- **Mobile Apps** – Developed multiple mobile applications for local use.  
-- **NutroAI** – A **calories tracking app** for managing food intake.  
-- **POS Car Wash System** – A **POS system** currently running in car washes across the country.  
+**Software Engineer Intern / Projects**  
+- Worked on several small projects and internships building full-stack web apps and mobile apps  
 
-### Technical Skills
+---
 
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js  
-- **Mobile Apps:** React Native, Flutter  
+🌱 Interests:  
 
-### Interests
+- Everything related to **AI** to improve skills and develop innovative projects  
 
-- Everything related to **AI** to improve skills and develop innovative projects.  
+💬 Reach me by email! [Your email here]  
 
-### Contact
-
-- **Email:** [Your email here]  
-- **LinkedIn:** [Your LinkedIn here]  
-- **Website:** [Your website here]  
+📫 Visit my website: [Your website here]  
