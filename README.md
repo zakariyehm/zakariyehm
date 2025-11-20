@@ -1,3 +1,6 @@
+Hi there 👋
+My name is Sam and I'm a swe at a big tech company in nyc.
+
 ⚡️ Work Experience:
 
 Software Engineer @ Big tech company
